@@ -1,0 +1,28 @@
+{
+    "option": {
+        "fight": {
+            "x": 32,
+            "y": 432,
+            "url_0": "./image/fight_0.png",
+            "url_1": "./image/fight_1.png"
+        },
+        "act": {
+            "x": 184,
+            "y": 432,
+            "url_0": "./image/act_0.png",
+            "url_1": "./image/act_1.png"
+        },
+        "item": {
+            "x": 344,
+            "y": 432,
+            "url_0": "./image/item_0.png",
+            "url_1": "./image/item_1.png"
+        },
+        "mercy": {
+            "x": 496,
+            "y": 432,
+            "url_0": "./image/mercy_0.png",
+            "url_1": "./image/mercy_1.png"
+        }
+    }
+}
